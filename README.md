@@ -1,3 +1,2 @@
 # Imersão dev -Aluraflix
-Projeto realizada na 2 imersão dev Alura
-Este projeto tem como intuito a prática de uso de arrays e estrutura de repetição For.
+Projetos realizados na imersão Alura Dev para front-end, os projetos são realizados individualmente e são programados em cima de um código base já desenvolvido, fazendo necessário o entendimento do código e continuação do desenvolvimento. As linguagens utilizadas foram HTML,CSS , Javascript. As ferramentas utilizadas foram Notion, Cod pen e GitHub.
